@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/my-gh-pages/static/css/main.bfe70056.chunk.css",
-    "main.js": "/my-gh-pages/static/js/main.2216a7b5.chunk.js",
-    "main.js.map": "/my-gh-pages/static/js/main.2216a7b5.chunk.js.map",
-    "runtime-main.js": "/my-gh-pages/static/js/runtime-main.559bde0e.js",
-    "runtime-main.js.map": "/my-gh-pages/static/js/runtime-main.559bde0e.js.map",
-    "static/js/2.032bd8e0.chunk.js": "/my-gh-pages/static/js/2.032bd8e0.chunk.js",
-    "static/js/2.032bd8e0.chunk.js.map": "/my-gh-pages/static/js/2.032bd8e0.chunk.js.map",
+    "main.css": "/my-gh-pages/static/css/main.71d93c56.chunk.css",
+    "main.js": "/my-gh-pages/static/js/main.bfb2ec18.chunk.js",
+    "main.js.map": "/my-gh-pages/static/js/main.bfb2ec18.chunk.js.map",
+    "runtime-main.js": "/my-gh-pages/static/js/runtime-main.fea5b825.js",
+    "runtime-main.js.map": "/my-gh-pages/static/js/runtime-main.fea5b825.js.map",
+    "static/js/2.349453bb.chunk.js": "/my-gh-pages/static/js/2.349453bb.chunk.js",
+    "static/js/2.349453bb.chunk.js.map": "/my-gh-pages/static/js/2.349453bb.chunk.js.map",
     "index.html": "/my-gh-pages/index.html",
-    "precache-manifest.fb25aed2143a0cd6b49f60099d7b5a03.js": "/my-gh-pages/precache-manifest.fb25aed2143a0cd6b49f60099d7b5a03.js",
+    "precache-manifest.9e8710fc5b5197e4bf2442523131b15e.js": "/my-gh-pages/precache-manifest.9e8710fc5b5197e4bf2442523131b15e.js",
     "service-worker.js": "/my-gh-pages/service-worker.js",
-    "static/css/main.bfe70056.chunk.css.map": "/my-gh-pages/static/css/main.bfe70056.chunk.css.map",
-    "static/js/2.032bd8e0.chunk.js.LICENSE": "/my-gh-pages/static/js/2.032bd8e0.chunk.js.LICENSE"
+    "static/css/main.71d93c56.chunk.css.map": "/my-gh-pages/static/css/main.71d93c56.chunk.css.map",
+    "static/js/2.349453bb.chunk.js.LICENSE.txt": "/my-gh-pages/static/js/2.349453bb.chunk.js.LICENSE.txt",
+    "static/media/ASL_github.jpg": "/my-gh-pages/static/media/ASL_github.fda11a54.jpg",
+    "static/media/ML_proj_1.png": "/my-gh-pages/static/media/ML_proj_1.5d653fcc.png",
+    "static/media/ML_proj_2.png": "/my-gh-pages/static/media/ML_proj_2.89f121eb.png",
+    "static/media/ML_proj_3.png": "/my-gh-pages/static/media/ML_proj_3.c538cd7a.png",
+    "static/media/about_me_1000.jpg": "/my-gh-pages/static/media/about_me_1000.92c2f14d.jpg",
+    "static/media/contact_1000.jpg": "/my-gh-pages/static/media/contact_1000.c6a20b5b.jpg",
+    "static/media/copenhacks_github.png": "/my-gh-pages/static/media/copenhacks_github.e2c60117.png",
+    "static/media/mountain_sunset_1000.jpg": "/my-gh-pages/static/media/mountain_sunset_1000.0595fe96.jpg",
+    "static/media/smart_cantine_github.png": "/my-gh-pages/static/media/smart_cantine_github.e8faed70.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.559bde0e.js",
-    "static/js/2.032bd8e0.chunk.js",
-    "static/css/main.bfe70056.chunk.css",
-    "static/js/main.2216a7b5.chunk.js"
+    "static/js/runtime-main.fea5b825.js",
+    "static/js/2.349453bb.chunk.js",
+    "static/css/main.71d93c56.chunk.css",
+    "static/js/main.bfb2ec18.chunk.js"
   ]
 }
